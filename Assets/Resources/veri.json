@@ -1,0 +1,1160 @@
+{
+    "seasons": [
+        {
+            "season": 1,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Besiktas"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "DÜZENLENMEDİ"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "DÜZENLENMEDİ"
+                }
+            ]
+        },
+        {
+            "season": 2,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Besiktas"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "DÜZENLENMEDİ"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "DÜZENLENMEDİ"
+                }
+            ]
+        },
+        {
+            "season": 3,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Fenerbahce"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "DÜZENLENMEDİ"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "DÜZENLENMEDİ"
+                }
+            ]
+        },
+        {
+            "season": 4,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Besiktas"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "DÜZENLENMEDİ"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "DÜZENLENMEDİ"
+                }
+            ]
+        },
+        {
+            "season": 5,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Fenerbahce"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "DÜZENLENMEDİ"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "DÜZENLENMEDİ"
+                }
+            ]
+        },
+        {
+            "season": 6, 
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "DÜZENLENMEDİ"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "DÜZENLENMEDİ"
+                }
+            ]
+        },
+        {
+            "season": 7, 
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "DÜZENLENMEDİ"
+                }
+            ]
+        },
+        {
+            "season": 8,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Fenerbahce"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "DÜZENLENMEDİ"
+                }
+            ]
+        },
+        {
+            "season": 9, 
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Fenerbahce"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Galatasaray"
+                }
+            ]
+        },
+        {
+            "season": 10,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Besiktas"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Besiktas"
+                }
+            ]
+        },
+        {
+            "season": 11, 
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Besiktas"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Altay"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Fenerbahce"
+                }
+            ]
+        },
+        {
+            "season": 12,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Fenerbahce"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Fenerbahce"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Galatasaray"
+                }
+            ]
+        },
+        {
+            "season": 13, 
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Goztepe"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Goztepe"
+                }
+            ]
+        },
+        {
+            "season": 14,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Fenerbahce"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Goztepe"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Eskisehirspor"
+                }
+            ]
+        },
+        {
+            "season": 15, 
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Eskisehirspor"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Galatasaray"
+                }
+            ]
+        },
+        {
+            "season": 16,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Ankaragucu"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Fenerbahce"
+                }
+            ]
+        },
+        {
+            "season": 17, 
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Besiktas"
+                }
+            ]
+        },
+        {
+            "season": 18,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Fenerbahce"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Fenerbahce"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Fenerbahce"
+                }
+            ]
+        },
+        {
+            "season": 19, 
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Fenerbahce"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Besiktas"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Trabzonspor"
+                }
+            ]
+        },
+        {
+            "season": 20,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Trabzonspor"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Trabzonspor"
+                }
+            ]
+        },
+        {
+            "season": 21, 
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Trabzonspor"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Trabzonspor"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Trabzonspor"
+                }
+            ]
+        },
+        {
+            "season": 22,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Fenerbahce"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Trabzonspor"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Trabzonspor"
+                }
+            ]
+        },
+        {
+            "season": 23, 
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Trabzonspor"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Fenerbahce"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Trabzonspor"
+                }
+            ]
+        },
+        {
+            "season": 24,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Trabzonspor"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Altay"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Ankaragucu"
+                }
+            ]
+        },
+        {
+            "season": 25, 
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Trabzonspor"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Ankaragucu"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Galatasaray"
+                }
+            ]
+        },
+        {
+            "season": 26,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Besiktas"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Trabzonspor"
+                }
+            ]
+        },
+        {
+            "season": 27, 
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Fenerbahce"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Fenerbahce"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Fenerbahce"
+                }
+            ]
+        },
+        {
+            "season": 28,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Trabzonspor"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Trabzonspor"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Fenerbahce"
+                }
+            ]
+        },
+        {
+            "season": 29, 
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Fenerbahce"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Besiktas"
+                }
+            ]
+        },
+        {
+            "season": 30,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Besiktas"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Bursaspor"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Galatasaray"
+                }
+            ]
+        },
+        {
+            "season": 31, 
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Genclerbirligi"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Galatasaray"
+                }
+            ]
+        },
+        {
+            "season": 32,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Sakaryaspor"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Besiktas"
+                }
+            ]
+        },
+        {
+            "season": 33, 
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Fenerbahce"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Besiktas"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Fenerbahce"
+                }
+            ]
+        },
+        {
+            "season": 34,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Besiktas"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Besiktas"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Galatasaray"
+                }
+            ]
+        },
+        {
+            "season": 35, 
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Besiktas"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Besiktas"
+                }
+            ]
+        },
+        {
+            "season": 36,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Besiktas"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Trabzonspor"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Galatasaray"
+                }
+            ]
+        },
+        {
+            "season": 37, 
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Besiktas"
+                }
+            ]
+        },
+        {
+            "season": 38,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Besiktas"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Trabzonspor"
+                }
+            ]
+        },
+        {
+            "season": 39, 
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Besiktas"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Trabzonspor"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Galatasaray"
+                }
+            ]
+        },
+        {
+            "season": 40,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Fenerbahce"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Galatasaray"
+                }
+            ]
+        },
+        {
+            "season": 41, 
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Kocaelispor"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Besiktas"
+                }
+            ]
+        },
+        {
+            "season": 42,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Besiktas"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "DÜZENLENMEDİ"
+                }
+            ]
+        },
+        {
+            "season": 43, 
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "DÜZENLENMEDİ"
+                }
+            ]
+        },
+        {
+            "season": 44,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "DÜZENLENMEDİ"
+                }
+            ]
+        },
+        {
+            "season": 45, 
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Fenerbahce"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Genclerbirligi"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "DÜZENLENMEDİ"
+                }
+            ]
+        },
+        {
+            "season": 46,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Kocaelispor"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "DÜZENLENMEDİ"
+                }
+            ]
+        },
+        {
+            "season": 47, 
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Besiktas"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Trabzonspor"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "DÜZENLENMEDİ"
+                }
+            ]
+        },
+        {
+            "season": 48,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Fenerbahce"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Trabzonspor"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "DÜZENLENMEDİ"
+                }
+            ]
+        },
+        {
+            "season": 49, 
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Fenerbahce"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "DÜZENLENMEDİ"
+                }
+            ]
+        },
+        {
+            "season": 50,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Besiktas"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Besiktas"
+                }
+            ]
+        },
+        {
+            "season": 51, 
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Fenerbahce"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Besiktas"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Fenerbahce"
+                }
+            ]
+        },
+        {
+            "season": 52,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Kayserispor"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Galatasaray"
+                }
+            ]
+        },
+        {
+            "season": 53, 
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Besiktas"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Besiktas"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Fenerbahce"
+                }
+            ]
+        },
+        {
+            "season": 54,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Bursaspor"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Trabzonspor"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Trabzonspor"
+                }
+            ]
+        },
+        {
+            "season": 55, 
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Fenerbahce"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Besiktas"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "DÜZENLENMEDİ"
+                }
+            ]
+        },
+        {
+            "season": 56,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Fenerbahce"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Galatasaray"
+                }
+            ]
+        },
+        {
+            "season": 57, 
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Fenerbahce"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Galatasaray"
+                }
+            ]
+        },
+        {
+            "season": 58,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Fenerbahce"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Fenerbahce"
+                }
+            ]
+        },
+        {
+            "season": 59, 
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Galatasaray"
+                }
+            ]
+        },
+        {
+            "season": 60,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Besiktas"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Galatasaray"
+                }
+            ]
+        },
+        {
+            "season": 61, 
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Besiktas"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Konyaspor"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Konyaspor"
+                }
+            ]
+        },
+        {
+            "season": 62,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Akhisar"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Akhisar"
+                }
+            ]
+        },
+        {
+            "season": 63,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Galatasaray"
+                }
+            ]
+        },
+        {
+            "season": 64,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Basaksehir"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Trabzonspor"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Trabzonspor"
+                }
+            ]
+        },
+        {
+            "season": 65,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Besiktas"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Besiktas"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Besiktas"
+                }
+            ]
+        },
+        {
+            "season": 66,
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Trabzonspor"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Sivasspor"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Trabzonspor"
+                }
+            ]
+        },
+        {
+            "season": 67, 
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Fenerbahce"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Galatasaray"
+                }
+            ]
+        },
+        {
+            "season": 68, 
+            "cups": [
+                {
+                    "name": "Süper Lig",
+                    "winner": "Galatasaray"
+                },
+                {
+                    "name": "Türkiye Kupası",
+                    "winner": "Besiktas"
+                },
+                {
+                    "name": "TFF Süper Kupa",
+                    "winner": "Besiktas"
+                }
+            ]
+        }
+    ]
+}
